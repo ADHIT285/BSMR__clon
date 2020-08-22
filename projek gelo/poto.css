@@ -1,0 +1,235 @@
+.bsmr{
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+    background-color: burlywood;
+    color:white;
+    margin-bottom: 20px;
+    position: fixed;
+    
+}
+
+.apaweh{
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    width: 1000px;
+}
+
+.lah{
+    width: 50px;
+    height: 50px;
+}
+
+.option{
+    display: flex;
+    flex-flow: row;
+    /* justify-content: space-between; */
+    font-size: 19px;
+    width: 1560px;
+    height: 70px;
+    
+}
+
+#title{
+    font-size: 35px;
+    margin: 0px;
+    justify-content: flex-start;
+}
+
+.sukses{
+    background-color: black;
+    margin: 0px;
+    padding-top: 130px;
+    padding-bottom: 130px;
+    display: flex;
+    flex-flow: row;
+    /* justify-content: space-evenly; */
+    justify-content: center;
+}
+
+.nye{
+    color: white;
+    margin: 17px;
+
+}
+
+body{
+    margin: 0px;
+    background-color: black;
+}
+
+p{
+    padding-left: 32px;
+    padding-right: 32px;
+}
+
+.nyu{
+    color: white;
+    margin: 17px;
+}
+
+.nyoh{
+    color: white;
+    margin: 17px;
+}
+
+.helo{
+    color: white;
+    text-align: center;
+    margin-top: 0px;
+    font-size: 30px;
+    font-weight: bolder;
+    margin-left: 20px;
+    margin-bottom: 0px;
+
+}
+
+
+.pit{
+    height: 25pc;
+    width: 25pc;
+    padding-right: 100px;
+}
+
+.pot{
+    width: 25pc;
+    height: 25pc;
+    padding-right: 100px;
+}
+
+.pet{
+    width: 25pc;
+    height: 25pc;
+    padding-right: 100px;
+}
+
+.pul{
+    height: 25pc;
+    width: 25pc;
+    padding-right: 100px;
+    padding-bottom: 40px;
+}
+
+.lag{
+    height: 25pc;
+    width: 25pc;
+    padding-right: 100px;
+    padding-bottom: 40px;
+}
+
+.log{
+    height: 25pc;
+    width: 25pc;
+    padding-right: 100px;
+    padding-bottom: 40px;
+}
+
+/* .jav{
+    flex-wrap: wrap;
+} */
+
+.oi{
+    height: 25pc;
+    width: 25pc;
+    padding-right: 100px;
+    padding-bottom: 40px;
+}
+
+.op{
+    height: 25pc;
+    width: 25pc;
+    padding-right: 100px;
+    padding-bottom: 40px;
+}
+
+.pil{
+    height: 25pc;
+    width: 25pc;
+    padding-right: 100px;
+    padding-bottom: 40px;
+}
+
+.pop{
+    height: 25pc;
+    width: 25pc;
+    padding-right: 100px;
+    padding-bottom: 40px;
+}
+
+.ice{
+    height: 25pc;
+    width: 25pc;
+    padding-right: 100px;
+    padding-bottom: 40px;
+}
+
+.ule{
+    height: 25pc;
+    width: 25pc;
+    padding-right: 100px;
+    padding-bottom: 40px;
+}
+
+.tit{
+    height: 25pc;
+    width: 25pc;
+    padding-right: 100px;
+    padding-bottom: 40px;
+}
+
+.tut{
+    height: 25pc;
+    width: 25pc;
+    padding-right: 100px;
+    padding-bottom: 40px;
+}
+
+.tet{
+    height: 25pc;
+    width: 25pc;
+    padding-right: 100px;
+    padding-bottom: 40px;
+}
+
+.res{
+    height: 25pc;
+    width: 25pc;
+    padding-right: 100px;
+    padding-bottom: 40px;
+}
+
+.ros{
+    height: 25pc;
+    width: 25pc;
+    padding-right: 100px;
+    padding-bottom: 40px;
+}
+
+.rus{
+    height: 25pc;
+    width: 25pc;
+    padding-right: 100px;
+    padding-bottom: 40px;
+}
+
+.ter{
+    height: 25pc;
+    width: 25pc;
+    padding-right: 100px;
+    padding-bottom: 40px;
+}
+
+.tar{
+    height: 25pc;
+    width: 25pc;
+    padding-right: 100px;
+    padding-bottom: 40px;
+}
+
+.tur{
+    height: 25pc;
+    width: 25pc;
+    padding-right: 100px;
+    padding-bottom: 40px;
+}

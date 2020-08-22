@@ -1,0 +1,251 @@
+.bsmr{
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+    background-color: burlywood;
+    color:white;
+    margin-bottom: 20px;
+    position: fixed;
+    
+}
+
+.option{
+    display: flex;
+    flex-flow: row;
+    /* justify-content: space-between; */
+    font-size: 19px;
+    width: 1560px;
+    height: 70px;
+    
+}
+
+p{
+    padding-left: 32px;
+    padding-right: 32px;
+}
+
+body{
+    margin: 0px;
+    background-color: black;
+}
+
+#title{
+    font-size: 35px;
+    margin: 0px;
+    justify-content: flex-start;
+}
+
+.lah{
+    width: 50px;
+    height: 50px;
+}
+
+.apaweh{
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    width: 1000px;
+}
+
+
+.loh{
+    width: 100%;
+    height: 70%;
+}
+
+
+.mabar{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 30px;
+    font-weight: bolder;
+    color: white;
+}
+
+.garis{
+    color: red;
+    text-align: center;
+    font-weight: bold;
+    margin-top: auto;
+    font-size: 70px;
+}
+
+.sukses{
+    background-color: black;
+    margin: 0px;
+    padding-top: 130px;
+    padding-bottom: 130px;
+    display: flex;
+    flex-flow: row;
+    justify-content: space-evenly;
+}
+
+.fa-heartbeat{
+    margin-left: 115px;
+}
+
+.LDKB:hover{
+    color: red;
+}
+
+.fa-ambulance{
+    margin-left: 115px;
+    color: black;
+}
+
+.MEDIC-BANTARA:hover{
+    color: white;
+}
+
+
+.MEDIC-BANTARA:hover{
+    color: red;
+}
+
+.fa-medkit{
+    width: 10px;
+    margin-left: 115px;
+}
+
+.MEDIC-EXPERT:hover{
+    color: red;
+    align-items: center;
+}
+
+.perkap{
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+    font-weight: bold;
+    align-items: center;
+    color: black;
+}
+
+.LDKB{
+    background-color:white;
+    width: 300px;
+    height: 300px;
+    margin: 50px 60px;
+    padding: 8px 8px;
+    /* border-radius: 10%; */
+}
+
+.MEDIC-BANTARA{
+    background-color:white;
+    width: 300px;
+    height: 300px;
+    margin: 50px 60px;
+    padding: 8px 8px;
+    /* border-radius: 10%; */
+}
+
+.MEDIC-EXPERT{
+    background-color: white;
+    width: 300px;
+    height: 300px;
+    margin: 50px 60px;
+    padding: 8px 8px;
+    /* border-radius: 10%; */
+}
+
+.Klik{
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+.MEDIC-BANTARA:hover{
+    border: 9px solid red;
+}
+
+.MEDIC-EXPERT:hover{
+    border: 9px solid red;
+}
+
+.LDKB:hover{
+    border: 9px solid red;
+}
+
+/* #inih{
+    width: 30pc;
+    height: 10pc;
+    margin-bottom: 10px;
+    border-radius: 30px;
+
+}  */
+
+/* #cincau{
+    width: 50pc;
+    height: 100pc; 
+
+} */
+
+.kotak{
+    background-color: burlywood;
+    height: 299px;
+    width: 1520px;
+    margin-top: 100px;
+}
+
+.boy{
+    width: 150px;
+    height: 150px;
+    padding-top: 20px;
+    padding-left: 70px;
+}
+
+.dua{
+    color: red;
+    font-weight: bolder;
+    font-size: 19px;
+}
+
+.fa-instagram{
+    color: black;
+    /* margin-left: 1479px; */
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 20px;
+    
+}
+
+.fa-youtube-play{
+    color: black;
+    /* margin-left:1379px ; */
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 20px;
+}
+
+.cuy{
+    display: flex;
+    justify-content: flex-end;
+    /* justify-content: space-around; */
+    align-items: flex-end;
+}
+
+.fa-whatsapp{
+    color: black;
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 20px;
+}
+
+.nye{
+    color: white;
+    margin: 17px;
+
+}
+
+.nyu{
+    color: white;
+    margin: 17px;
+}
+
+.nyoh{
+    color: white;
+    margin: 17px;
+}
+

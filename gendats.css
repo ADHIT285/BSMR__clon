@@ -1,0 +1,111 @@
+.gojek{
+    background-color: limegreen;
+    margin: 0px;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    display: flex;
+    flex-flow: row;
+    justify-content: space-evenly;
+        
+}
+
+.fa-motorcycle{
+    margin-left: 80px;
+}
+
+.ride:hover{
+    color: mediumseagreen;
+}
+
+.fa-truck{
+    margin-left: 80px;
+    color: tomato;
+}
+
+.gobox:hover{
+    color: red;
+}
+
+.fa-envelope-o{
+    /* width: 10px; */
+    margin-left: 90px;
+}
+
+.fa-mobile{
+    margin-left: 100px;
+    color: turquoise;
+}
+
+.gopay:hover{
+    color: royalblue;
+}
+
+
+
+.motor{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.sepeda{
+    display: flex;
+    justify-content: center;
+
+}
+
+.ride{
+    background-color: white;
+    width: 300px;
+    height: 300px;
+    margin: 50px 60px;
+    padding: 8px 8px;
+    border-radius: 10%;
+}
+
+.gobox{
+    background-color: white;
+    width: 300px;
+    height: 300px;
+    margin: 50px 60px;
+    padding: 8px 8px;
+    border-radius: 10%;
+}
+
+.gosend{
+    background-color: white;
+    width: 300px;
+    height: 300px;
+    margin: 50px 60;
+    padding: 8px 8px;
+    border-radius: 10%;
+}
+
+.gopay{
+    background-color: white;
+    width: 300px;
+    height: 300px;
+    margin: 50px 60px;
+    padding: 8px 8px;
+    border-radius: 10%;
+}
+
+.gopay:hover{
+    border: 9px solid black;
+}
+
+.gosend:hover{
+    border: 9px solid black;
+
+
+}
+
+.gobox:hover{
+    border: 9px solid black;
+}
+
+.ride:hover{
+    border: 9px solid black;
+}
